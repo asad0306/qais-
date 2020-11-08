@@ -1,0 +1,72 @@
+p {
+        color: greenyellow;
+        background-color: black;
+        width: 500px;
+        border: 10px solid black;
+        padding: 10px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    a {
+        color: skyblue;
+    }
+    h1 {
+        margin: 0;
+        padding: 20px 0px;
+        color: #00539f;
+        text-shadow: 3px 2px 3px black;
+        position: auto;
+    }
+    html {
+        font-size: 18px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+   ul {
+       color: green;
+       font-family:'Courier New', Courier, monospace;
+   }
+   ol {
+       color: green;
+              font-family: 'Courier New', Courier, monospace;
+   }
+   body {
+       color: red;
+       background-color: lightgrey;
+       margin: 0 auto;
+       border: 20px;
+       padding: 20px 20px 20px 20px;
+
+   }
+   img {
+       display: block;
+       margin: auto;
+       width: 600px;
+       border: aliceblue;
+   }
+   
+</style>
+<h1><strong>Hello World</strong></h1>
+<p>Hi, My Name is Qais Ansari i'm learing web development from <strong>TOP (The Odin Project)</strong>
+   this is just a practic page i have made here to feel free with my study's to be better,
+    revision and practic as well need to a lot of practic to make myself prefact in web development. 
+    <a href="http/qais.com">Read More About Me!</a>
+</p>
+<body>
+    <img src="/home/asad/Downloads/Qais.png">
+</body>
+<img src="/home/asad/Downloads/Mustang.jpg">
+
+
+<ol>
+    <li>
+        Web Development 101, 40% Completed.
+    </li>
+    <li>
+        Full Stack
+    </li>
+</ol>
+<ul>
+    <li>Basic HTML</li>
+    <li>Basic CSS</li>
+    <li>Basic JavaScript</li>
+</ul>
+<button>for More Information</button>
